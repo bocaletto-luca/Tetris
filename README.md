@@ -8,6 +8,9 @@
 ![Project_Completed](https://img.shields.io/badge/Project-Completed-green?style=for-the-badge)
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Demo-brightgreen)](https://bocaletto-luca.github.io/Tetris/index.html)
+
+
 ## Overview
 
 **Tetris Web Game Single Player** is a modern, browser‑based remake of the timeless Tetris puzzle game. Built using HTML5, CSS3, and JavaScript, this game offers smooth animations, responsive controls, and real‑time score tracking. Experience addictive gameplay as you rotate and drop falling blocks to clear complete lines—all without any installation.
